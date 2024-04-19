@@ -15,7 +15,7 @@ try:
     cur = conn.cursor()
 
     # Tabelle erstellen, wenn sie nicht existiert
-    cur.execute("""CREATE TABLE IF NOT EXISTS person2 (
+    cur.execute("""CREATE TABLE IF NOT EXISTS person (
         id SERIAL PRIMARY KEY,
         name VARCHAR(255),
         age INT,
