@@ -1,4 +1,5 @@
 # Python-Datenbank
-Ein Python Programm welches sich mit einer Postgres Datenbank verbindet. Die verschieden Daten werden via einer GUI mit tkinter erstellt 
+Ein Python Personen Programm wo man personen zu der Postgres datenbank hinzufügen sowie abrufen kann.
 
-Die verschiedenen daten zum verbinden der DAtenbank müssen geändert werden!
+
+Die verschiedenen daten zum verbinden der Datenbank müssen geändert werden!
